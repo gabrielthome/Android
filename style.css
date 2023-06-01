@@ -54,6 +54,8 @@ header > p{
     padding-left: 10px;
     padding-right: 10px;
     margin: auto;
+    text-shadow: 2px 2px 0px black;
+    padding-bottom: 20px;
 }
 
 nav{
